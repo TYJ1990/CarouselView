@@ -2,8 +2,7 @@
 //  CarouselView.m
 //  Leisure
 //
-//  Created by I三生有幸I on 16/5/27.
-//  Copyright © 2016年 盛辰. All rights reserved.
+//  Created by TYJ on 16/5/27.
 //
 #import "CarouselView.h"
 #import <UIImageView+WebCache.h>
